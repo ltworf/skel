@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Incognito
+GenericName=Incognito
+Comment=Open browser with a temp profile
+Exec=/usr/local/bin/chromium --temp-profile --no-sandbox
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=incognito
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;application/x-mimearchive;x-scheme-handler/http;x-scheme-handler/https;
+StartupWMClass=incognito
+StartupNotify=true

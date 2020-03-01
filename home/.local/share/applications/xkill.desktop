@@ -1,0 +1,8 @@
+[Desktop Entry]
+GenericName=XKill
+Name=XKill
+Exec=xkill
+Icon=xkill
+Type=Application
+Terminal=false
+StartupNotify=false

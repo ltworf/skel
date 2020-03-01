@@ -1,0 +1,9 @@
+[Desktop Entry]
+GenericName=Scurpiddu
+Name=Scurpiddu
+Exec=/home/salvo/dev/scurpiddu/build/scurpiddu
+Icon=scurpiddu
+Type=Application
+Terminal=false
+StartupNotify=false
+Categories=Qt;KDE;AudioVideo;Audio;Player;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Firefox
+Name[it]=Firefox
+Comment=Browse the World Wide Web
+Comment[it]=Esplora il web
+GenericName=Web Browser
+GenericName[it]=Browser Web
+X-GNOME-FullName=Firefox Web Browser
+X-GNOME-FullName[it]=Firefox Browser Web
+Exec=/usr/local/bin/firefox %u
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=firejailfirefox
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;application/vnd.mozilla.xul+xml;application/rss+xml;application/rdf+xml;image/gif;image/jpeg;image/png;x-scheme-handler/http;x-scheme-handler/https;
+StartupWMClass=Firefox
+StartupNotify=true

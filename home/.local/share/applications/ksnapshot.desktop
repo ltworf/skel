@@ -1,0 +1,8 @@
+[Desktop Entry]
+GenericName=Screenshot Capture Utility
+Name=ksnapshot
+Exec=spectacle
+Icon=spectacle
+Type=Application
+Terminal=false
+StartupNotify=false
