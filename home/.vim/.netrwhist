@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/salvo/dev/siddio/iocontrol/src'
+let g:netrw_dirhist_2='/home/salvo/dev/siddio/iocontrol'
+let g:netrw_dirhist_3='/tmp/polygen-debian/debian'
+let g:netrw_dirhist_4='/home/salvo/bin'
+let g:netrw_dirhist_5='/home/salvo/dev/siddio/debian'
+let g:netrw_dirhist_6='/home/salvo/dev/pulputils'
+let g:netrw_dirhist_7='/home/salvo/dev/weborf/debian'
+let g:netrw_dirhist_8='/home/salvo/.config/aitorbot'

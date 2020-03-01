@@ -1,0 +1,144 @@
+# ~/.XCompose
+# This file defines custom Compose sequences for Unicode characters
+
+# Import default rules from the system Compose file:
+include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+#=========== CUSTOM ONES
+<Multi_key> <a> <t> <o> <m>             : "⚛"   U269B #atom
+<Multi_key> <s> <w> <o> <r> <d>         : "⚔"   U2694 #swords
+<Multi_key> <s> <k> <u> <l> <l>         : "☠"   U2620 #skull
+<Multi_key> <s> <n> <o> <w> <m> <a> <n> : "☃"   U2603 #snowman
+<Multi_key> <s> <colon>                 : "⍨"   U2368 #weirdface
+<Multi_key> <colon> <s>                 : "⍨"   U2368 #weirdface
+<Multi_key> <P> <E> <A> <C> <E>         : "☮"   U262E # Peace symbol
+<Multi_key> <p> <e> <a> <c> <e>         : "☮"   U262E # Peace symbol
+<Multi_key> <y> <i> <n>                 : "☯"   U262F # yin-yang
+<Multi_key> <i> <question>              : "⸮"   U2E2E #Irony point
+<Multi_key> <f> <l> <e> <u> <r>         : "⚜"   U269C #Fleur de isle
+<Multi_key> <h> <e> <r> <m> <e> <s>     : "⚚"   U269A #staff of hermes
+<Multi_key> <s> <c> <a> <l> <e>         : "⚖"   U2696 #scale
+<Multi_key> <c> <o> <f> <f> <e> <e>     : "☕"   U2615 #coffee
+<Multi_key> <u> <m> <b> <r> <e> <l> <l> : "☂"   U2602 #Umbrella
+<Multi_key> <f> <e> <m> <a> <l> <e>     : "♀"   U2640 #female
+<Multi_key> <m> <a> <l> <e>             : "♂"   U2642 #male
+<Multi_key> <a> <n> <k> <h>             : "☥"   U2625 #ankh
+<Multi_key> <c> <a> <d> <u> <c>         : "☤"   U2624 #CADUCEUS
+<Multi_key> <e> <s> <c> <u> <l> <a> <p> : "⚕"   U2695 #STAFF OF AESCULAPIUS
+<Multi_key> <u> <r> <n>                 : "⚱"   U26B1 #FUNERAL URN
+
+
+#=========== Chess
+<Multi_key> <w> <k> <i> <n> <g>         : "♔"   U2654
+<Multi_key> <b> <k> <i> <n> <g>         : "♚"   U265A
+<Multi_key> <w> <q> <u> <e> <e> <n>     : "♕"   U2655
+<Multi_key> <b> <q> <u> <e> <e> <n>     : "♛"   U265B
+<Multi_key> <w> <r> <o> <o> <k>         : "♖"   U2656
+<Multi_key> <b> <r> <o> <o> <k>         : "♜"   U265C
+<Multi_key> <w> <b> <i> <s> <h> <o> <p> : "♗"   U2657
+<Multi_key> <b> <b> <i> <s> <h> <o> <p> : "♝"   U265D
+<Multi_key> <w> <k> <n> <i> <g> <h> <t> : "♘"   U2658
+<Multi_key> <b> <k> <n> <i> <g> <h> <t> : "♞"   U265E
+<Multi_key> <w> <p> <a> <w> <n>         : "♙"   U2659
+<Multi_key> <b> <p> <a> <w> <n>         : "♟"   U265F
+
+#=====MATH
+<Multi_key> <s> <u> <b> <s> <e> <t>     : "⊂"   U2282 # subset
+<Multi_key> <n> <e> <s> <e> <t>         : "⊈"   U2288 # subset
+<Multi_key> <n> <s> <e> <t>             : "⊄"   U2284 #subset
+<Multi_key> <e> <s> <e> <t>             : "⊆"   U2286 # subset
+<Multi_key> <e> <a> <c> <h>             : "∀"   U2200 # each
+<Multi_key> <e> <l> <o> <f>             : "∈"   U2208 # element of
+<Multi_key> <n> <e> <l> <o> <f>         : "∉"   U2209 # not element of
+<Multi_key> <e> <x> <i> <s> <t>         : "∃"   U2203 # exists
+<Multi_key> <n> <e> <x> <i> <s> <t>     : "∄"   U2204 # not exists
+<Multi_key> <a> <n> <d>                 : "∧"   U2227 #and
+<Multi_key> <n> <o> <t>                 : "¬"   U00AC #not
+<Multi_key> <o> <r>                     : "∨"   U2228 #or
+<Multi_key> <i> <n> <f>                 : "∞"   U221E #infinity
+<Multi_key> <e> <m> <p> <t> <y>         : "∅"   U2205 #empy
+<Multi_key> <n> <equal>                 : "≠"   U2260 #not equal
+<Multi_key> <c> <equal>                 : "≈"   U2248 #approx equal
+
+#Greek letters
+<Multi_key> <A> <L> <P> <H> <A>         : "Α" U0391
+<Multi_key> <B> <E> <T> <A>             : "Β" U0392
+<Multi_key> <G> <A> <M> <M> <A>         : "Γ" U0393
+<Multi_key> <D> <E> <L> <T> <A>         : "Δ" U0394
+<Multi_key> <E> <P> <S> <I> <L> <O> <N> : "Ε" U0395
+<Multi_key> <Z> <E> <T> <A>             : "Ζ" U0396
+<Multi_key> <E> <T> <A>                 : "Η" U0397
+<Multi_key> <T> <H> <E> <T> <A>         : "Θ" U0398
+<Multi_key> <I> <O> <T> <A>             : "Ι" U0399
+<Multi_key> <K> <A> <P> <P> <A>         : "Κ" U039A
+<Multi_key> <L> <A> <M> <D> <A>         : "Λ" U039B
+<Multi_key> <M> <U>                     : "Μ" U039C
+<Multi_key> <N> <U>                     : "Ν" U039D
+<Multi_key> <X> <I>                     : "Ξ" U039E
+<Multi_key> <O> <M> <I> <C> <R> <O> <N> : "Ο" U039F
+<Multi_key> <P> <I>                     : "Π" U03A0
+<Multi_key> <R> <H> <O>                 : "Ρ" U03A1
+#<Multi_key> <l> <a> <m> <d> <a>         : #΢ U03A2
+<Multi_key> <S> <I> <G> <M> <A>         : "Σ" U03A3
+<Multi_key> <T> <A> <U>                 : "Τ" U03A4
+<Multi_key> <U> <P> <S> <I> <L> <O> <N> : "Υ" U03A5
+<Multi_key> <P> <H> <I>                 : "Φ" U03A6
+<Multi_key> <C> <H> <I>                 : "Χ" U03A7
+<Multi_key> <P> <S> <I>                 : "Ψ" U03A8
+<Multi_key> <O> <M> <E> <G> <A>         : "Ω" U03A9
+
+<Multi_key> <a> <l> <p> <h> <a>         : "α" U03B1
+<Multi_key> <b> <e> <t> <a>             : "β" U03B2
+<Multi_key> <g> <a> <m> <m> <a>         : "γ" U03B3
+<Multi_key> <d> <e> <l> <t> <a>         : "δ" U03B4
+<Multi_key> <e> <p> <s> <i> <l> <o> <n> : "ε" U03B5
+<Multi_key> <z> <e> <t> <a>             : "ζ" U03B6
+<Multi_key> <e> <t> <a>                 : "η" U03B7
+<Multi_key> <t> <h> <e> <t> <a>         : "θ" U03B8
+<Multi_key> <i> <o> <t> <a>             : "ι" U03B9
+<Multi_key> <k> <a> <p> <p> <a>         : "κ" U03BA
+<Multi_key> <l> <a> <m> <d> <a>         : "λ" U03BB
+<Multi_key> <m> <u>                     : "μ" U03BC
+<Multi_key> <n> <u>                     : "ν" U03BD
+<Multi_key> <x> <i>                     : "ξ" U03BE
+<Multi_key> <o> <m> <i> <c> <r> <o> <n> : "ο" U03BF
+<Multi_key> <p> <i>                     : "π" U03C0
+<Multi_key> <r> <h> <o>                 : "ρ" U03C1
+<Multi_key> <f> <s> <i> <g> <m> <a>     : "ς" U03C2
+<Multi_key> <s> <i> <g> <m> <a>         : "σ" U03C3
+<Multi_key> <t> <a> <u>                 : "τ" U03C4
+<Multi_key> <u> <p> <s> <i> <l> <o> <n> : "υ" U03C5
+<Multi_key> <p> <h> <i>                 : "φ" U03C6
+<Multi_key> <c> <h> <i>                 : "χ" U03C7
+<Multi_key> <p> <s> <i>                 : "ψ" U03C8
+<Multi_key> <o> <m> <e> <g> <a>         : "ω" U03C9
+
+#Subscript
+<Multi_key> <underscore> <b> <e> <t> <a>: "ᵦ" U1D66
+<Multi_key> <underscore> <g> <a> <m> <m> <a>: "ᵧ" U1D67
+<Multi_key> <underscore> <r> <h> <o>    : "ᵨ" U1D68
+<Multi_key> <underscore> <p> <h> <i>    : "ᵩ" U1D69
+<Multi_key> <underscore> <c> <h> <i>    : "ᵪ" U1D6A
+<Multi_key> <underscore> <plus>         : "₊" U208A
+<Multi_key> <underscore> <minus>        : "₋" U208B
+<Multi_key> <underscore> <equal>        : "₌" U208C
+<Multi_key> <underscore> <parenleft>    : "₍" U208D
+<Multi_key> <underscore> <parenright>   : "₎" U208F
+#<Multi_key> <underscore> <>            : "ₔ" U2094
+<Multi_key> <underscore> <a>            : "ₐ" U2090
+<Multi_key> <underscore> <e>            : "ₑ" U2091
+<Multi_key> <underscore> <h>            : "ₕ" U2095
+<Multi_key> <underscore> <j>            : "ⱼ" U2C7C
+<Multi_key> <underscore> <k>            : "ₖ" U2096
+<Multi_key> <underscore> <i>            : "ᵢ" U1D62
+<Multi_key> <underscore> <l>            : "ₗ" U2097
+<Multi_key> <underscore> <m>            : "ₘ" U2098
+<Multi_key> <underscore> <n>            : "ₙ" U2099
+<Multi_key> <underscore> <o>            : "ₒ" U2092
+<Multi_key> <underscore> <p>            : "ₚ" U209A
+<Multi_key> <underscore> <r>            : "ᵣ" U1D63
+<Multi_key> <underscore> <s>            : "ₛ" U209B
+<Multi_key> <underscore> <t>            : "ₜ" U209C
+<Multi_key> <underscore> <u>            : "ᵤ" U1D64
+<Multi_key> <underscore> <v>            : "ᵥ" U1D65
+<Multi_key> <underscore> <x>            : "ₓ" U2093
