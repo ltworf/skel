@@ -1,0 +1,87 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmYAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAABbAAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+Height 1080=544
+Width 1920=791
+
+[DownloadDialog Settings]
+Height 1080=518
+Width 1920=1058
+eDP-1 Height 1080=502
+eDP-1 Width 1920=700
+
+[General]
+Number of Actions=0
+
+[KPropertiesDialog]
+Height 1080=429
+Width 1920=471
+
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_okular,1 services_applications:org.kde.konsole.desktop,2 services_org.gnome.seahorse.Application.desktop,2 shell_init_yakuake,2 services_relational.desktop,2 services_telegramdesktop.desktop,1 services_org.kde.konsole.desktop,3 services_applications:org.kde.partitionmanager.desktop,1 services_org.kde.kdevelop.desktop,5 services_trabucco.desktop,1 services_org.qt-project.qtcreator.desktop,1 shell_ynew ipython,1 services_chromium.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 1][Defaults]
+thickness=60
+
+[PlasmaViews][Panel 1][Horizontal1920]
+length=406
+thickness=36
+
+[PlasmaViews][Panel 1][Vertical1024]
+thickness=30
+
+[PlasmaViews][Panel 1][Vertical1080]
+length=770
+thickness=60
+
+[PlasmaViews][Panel 1][Vertical300]
+thickness=30
+
+[PlasmaViews][Panel 1][Vertical480]
+thickness=30
+
+[PlasmaViews][Panel 1][Vertical600]
+thickness=30
+
+[PlasmaViews][Panel 1][Vertical768]
+thickness=30
+
+[PlasmaViews][Panel 15][Defaults]
+thickness=56
+
+[PlasmaViews][Panel 15][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 15][Vertical1050]
+thickness=56
+
+[PlasmaViews][Panel 15][Vertical1080]
+thickness=56
+
+[PlasmaViews][Panel 16][Defaults]
+thickness=58
+
+[PlasmaViews][Panel 16][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 16][Vertical1080]
+thickness=58
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=50
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 2][Vertical1080]
+thickness=50
+
+[ScreenConnectors]
+0=eDP-1
+1=:0.0
+2=HDMI-2
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js
