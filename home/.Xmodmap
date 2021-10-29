@@ -1,0 +1,6 @@
+keycode 110 = Insert
+keycode 115 = Delete
+keycode 118 = Home
+keycode 119 = End
+keycode 148 = XF86AudioPlay
+keycode 180 = XF86AudioNext
