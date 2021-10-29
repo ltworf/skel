@@ -1,0 +1,5 @@
+#!/bin/sh
+killall -9 plasmashell
+killall -9 kwin_x11
+plasmashell > /dev/null &
+kwin_x11 > /dev/null &
