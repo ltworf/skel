@@ -1,0 +1,36 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[Favorite Profiles]
+Favorites=
+
+[MainWindow]
+Height 1050=1004
+Height 1080=1034
+Height 2160=1198
+Height 480=868
+Height 600=480
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAMsBAAAFAAAE0gAAAmEAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAAAAAAcAHMAZQBzAHMAaQBvAG4AVABvAG8AbABiAGEAcgEAAASy/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1680=1612
+Width 1920=1852
+Width 3840=1905
+Width 640=1031
+Width 800=640
+Window-Maximized 1080x1920=true
+Window-Maximized 768x1360=true
+eDP-1 HDMI-2 Height 1080=674
+eDP-1 HDMI-2 Width 1920=1230
+eDP-1 HDMI-2 Window-Maximized 1920x1080=true
+eDP-1 HDMI-2 XPosition=0
+eDP-1 HDMI-2 YPosition=40
+eDP-1 Height 1080=674
+eDP-1 Height 1920x1080=674
+eDP-1 Width 1920=1230
+eDP-1 Width 1920x1080=1234
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 XPosition=0
+eDP-1 XPosition 1920x1080=6
+eDP-1 YPosition=40
+eDP-1 YPosition 1920x1080=40

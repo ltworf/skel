@@ -1,0 +1,56 @@
+[Appearance]
+Skin=legacy
+Translucency=true
+
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[Dialogs]
+FirstRun=false
+
+[Favorite Profiles]
+Favorites=
+
+[FileDialogSize]
+Height 1080=480
+Width 1920=649
+eDP-1 Height 1080=480
+eDP-1 Width 1920=649
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/client.txt,file:$HOME/papà.txt
+Recent URLs[$e]=file:///tmp/,file:$HOME/
+detailViewIconSize=16
+listViewIconSize=50
+
+[SaveHistory Settings]
+Recent URLs[$e]=file:$HOME
+
+[Shortcuts]
+close-active-terminal=Ctrl+Shift+R
+close-session=Ctrl+Shift+W
+decrease-window-height=Alt+Shift+Up
+decrease-window-width=Alt+Shift+Left
+file_quit=Ctrl+Shift+Q
+grow-terminal-bottom=Ctrl+Alt+Down
+grow-terminal-left=Ctrl+Alt+Left
+grow-terminal-right=Ctrl+Alt+Right
+grow-terminal-top=Ctrl+Alt+Up
+increase-window-height=Alt+Shift+Down
+increase-window-width=Alt+Shift+Right
+move-session-left=Ctrl+Shift+Left
+move-session-right=Ctrl+Shift+Right
+new-session=Ctrl+Shift+N
+next-session=Shift+Right
+next-terminal=Ctrl+Shift+Down
+previous-session=Shift+Left
+previous-terminal=Ctrl+Shift+Up
+rename-session=Ctrl+Alt+S
+split-left-right=Ctrl+(
+split-top-bottom=Ctrl+)
+toggle-session-monitor-activity=Ctrl+Shift+A
+toggle-session-monitor-silence=Ctrl+Shift+I
+view-full-screen=Ctrl+Shift+F11
+
+[Window]
+Height=100
