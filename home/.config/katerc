@@ -1,0 +1,53 @@
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Favorite Profiles]
+Favorites=
+
+[FileDialogSize]
+Height 1080=814
+Width 1920=1172
+
+[General]
+Config Revision=10
+Days Meta Infos=30
+Last Session=
+Modified Notification=true
+Recent File List Entry Count=10
+Restore Window Configuration=true
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Show Tab Bar=false
+Startup Session=last
+
+[KFileDialog Settings]
+
+[KTextEditor::Search]
+
+[Konsole]
+AutoSyncronize=false
+
+[MainWindow]
+Height 1080=856
+State=AAAA/wAAAAD9AAAAAAAABBIAAAMXAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1042
+
+[PluginSymbolViewer]
+ExpandTree=false
+SortSymbols=false
+TreeView=false
+ViewTypes=false
+
+[filetree]
+editShade=33,84,111
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=66,73,74
+
+[project]
+autorepository=git,subversion
