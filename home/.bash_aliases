@@ -12,7 +12,7 @@ alias pastebinit='pastebinit -a LtWorf'
 
 alias lintian='lintian --pedantic -E --color auto -i -I'
 
-alias mpv='mpv --softvol-max=200 -x11-bypass-compositor=no  --script-opts=osc-layout=box --script-opts=osc-deadzonesize=0'
+alias mpv='mpv --volume-max=200 -x11-bypass-compositor=no  --script-opts=osc-layout=box --script-opts=osc-deadzonesize=0'
 
 alias hh='history | grep'
 alias killall='killall -n0'
