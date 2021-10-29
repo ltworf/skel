@@ -1,0 +1,12 @@
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[user]
+	name = Salvo 'LtWorf' Tomaselli
+	email = tiposchi@tiscali.it
+	signingkey = 801886CF
+[push]
+	default = simple
+[commit]
+	gpgsign = true
