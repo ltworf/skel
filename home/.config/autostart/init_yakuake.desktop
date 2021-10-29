@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/home/salvo/bin/init_yakuake
+Icon=dialog-scripts
+Name=init_yakuake
+Path=
+Type=Application
+X-KDE-AutostartScript=true

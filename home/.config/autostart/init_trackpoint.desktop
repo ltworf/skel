@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/home/salvo/bin/init_trackpoint
+Icon=dialog-scripts
+Name=init_trackpoint
+Path=
+Type=Application
+X-KDE-AutostartScript=true
