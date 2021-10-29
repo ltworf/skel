@@ -1,0 +1,2 @@
+#!/bin/sh
+ssh -p12345 -oServerAliveInterval=30 -oStrictHostKeyChecking=no computerazzo.dns.army
