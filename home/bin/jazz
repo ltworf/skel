@@ -1,0 +1,3 @@
+#!/bin/sh
+mpv http://www.radioswissjazz.ch/live/aacp.m3u || mpv http://stream.srg-ssr.ch/m/rsj/mp3_128
+
