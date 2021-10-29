@@ -1,0 +1,1458 @@
+# Questo file viminfo è stato generato da Vim 8.2.
+# File modificabile, attento a quel che fai!
+
+# Viminfo version
+|1,4
+
+# Valore di 'encoding' al momento della scrittura di questo file
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Ult. Espressione di Ricerca:
+~MSle0~/comp
+
+# Ultima Stringa Sostituzione:
+$
+
+# Riga-di-comando Storia (da più recente a meno recente):
+:wq
+|2,0,1635367160,,"wq"
+:up
+|2,0,1635345162,,"up"
+:q
+|2,0,1635025868,,"q"
+:synt on
+|2,0,1630500508,,"synt on"
+:q!
+|2,0,1598258226,,"q!"
+:7p
+|2,0,1596228155,,"7p"
+:w
+|2,0,1582973277,,"w"
+:uo
+|2,0,1567236649,,"uo"
+::qq
+|2,0,1554831088,,":qq"
+:q1
+|2,0,1545520315,,"q1"
+:s
+|2,0,1527933094,,"s"
+:Up
+|2,0,1527428295,,"Up"
+:qq
+|2,0,1517140144,,"qq"
+::q
+|2,0,1513117128,,":q"
+:.!:q
+|2,0,1513116494,,".!:q"
+:w!
+|2,0,1513116493,,"w!"
+:yo
+|2,0,1484998338,,"yo"
+:'<,'>q
+|2,0,1473917840,,"'<,'>q"
+
+# Stringa di Ricerca Storia (da più recente a meno recente):
+?/comp
+|2,1,1635021241,47,"comp"
+?/lavoro
+|2,1,1632331041,47,"lavoro"
+?/salvolav
+|2,1,1632330991,47,"salvolav"
+?/compu
+|2,1,1631659660,47,"compu"
+?/salvo
+|2,1,1630486216,47,"salvo"
+?/client
+|2,1,1602771095,47,"client"
+??\a
+|2,1,1601581055,63,"\\a"
+?/docker
+|2,1,1599547428,47,"docker"
+?/def main
+|2,1,1582973449,47,"def main"
+?/def su
+|2,1,1582937573,47,"def su"
+?/Cipher
+|2,1,1581763569,47,"Cipher"
+?/mit
+|2,1,1574290905,47,"mit"
+?/home
+|2,1,1572252956,47,"home"
+? \<private\>
+|2,1,1572252605,,"\\<private\\>"
+?/umount
+|2,1,1571935545,47,"umount"
+?/fake
+|2,1,1569835498,47,"fake"
+?/sock
+|2,1,1569834783,47,"sock"
+?/User
+|2,1,1567705253,47,"User"
+?/ERRF
+|2,1,1563261205,47,"ERRF"
+?/ERRFILE
+|2,1,1563261043,47,"ERRFILE"
+?/temp
+|2,1,1554397853,47,"temp"
+?/te
+|2,1,1554397850,47,"te"
+?/mail
+|2,1,1551525167,47,"mail"
+?/goog
+|2,1,1551525165,47,"goog"
+? \<ExecStart\>
+|2,1,1548706394,,"\\<ExecStart\\>"
+?/shopt
+|2,1,1545128261,47,"shopt"
+?/synt on
+|2,1,1545128253,47,"synt on"
+?/125
+|2,1,1545072733,47,"125"
+?/tm
+|2,1,1544881733,47,"tm"
+?/private
+|2,1,1542575276,47,"private"
+?/join
+|2,1,1539391279,47,"join"
+?/dialout
+|2,1,1532524843,47,"dialout"
+?/dol
+|2,1,1532457055,47,"dol"
+?/restr
+|2,1,1527933112,47,"restr"
+?/res
+|2,1,1527933099,47,"res"
+?/relay
+|2,1,1527933086,47,"relay"
+?/python
+|2,1,1525181062,47,"python"
+?/input
+|2,1,1525180989,47,"input"
+?/dcut
+|2,1,1525180942,47,"dcut"
+?/have
+|2,1,1525171478,47,"have"
+?/complete
+|2,1,1525171286,47,"complete"
+?/http
+|2,1,1523143123,47,"http"
+?/mento
+|2,1,1523143113,47,"mento"
+?/TypeAlias
+|2,1,1522678064,47,"TypeAlias"
+?/typeAlias
+|2,1,1522678060,47,"typeAlias"
+?/NamedTuple
+|2,1,1522677849,47,"NamedTuple"
+?/SO_BINDTO
+|2,1,1521281676,47,"SO_BINDTO"
+?/:
+|2,1,1521281412,47,":"
+?/IN
+|2,1,1521281403,47,"IN"
+?/DefaultTimeo
+|2,1,1519429220,47,"DefaultTimeo"
+
+# Espressione Storia (da più recente a meno recente):
+
+# Riga di Input Storia (da più recente a meno recente):
+
+# Riga di Debug Storia (da più recente a meno recente):
+
+# Registri:
+"0	CHAR	0
+	#
+|3,0,0,0,1,0,1601581055,"#"
+"1	LINE	0
+	salvolavoro:x:1002:1003:LAVORO SALVO,,,:/home/salvolavoro:/bin/bash
+|3,0,1,1,1,0,1632331041,"salvolavoro:x:1002:1003:LAVORO SALVO,,,:/home/salvolavoro:/bin/bash"
+"2	LINE	0
+	salvolavoro:$y$j9T$5gyW0HqzNaR1QmzHbPn18.$OWWMg9vENEOe6n6dAFtTdca8VMaR4Lnkf3yEg7mOw35:18871:0:99999:7:::
+|3,0,2,1,1,0,1632331035,"salvolavoro:$y$j9T$5gyW0HqzNaR1QmzHbPn18.$OWWMg9vENEOe6n6dAFtTdca8VMaR4Lnkf3yEg7mOw35:18871:0:99999:7:::"
+"3	LINE	0
+	salvolavoro:x:1003:salvolavoro,salvo,salvo2
+|3,0,3,1,1,0,1632331019,"salvolavoro:x:1003:salvolavoro,salvo,salvo2"
+"4	LINE	0
+	
+|3,0,4,1,1,0,1630501065,""
+"5	LINE	0
+	;;;;;; HEADLESS CLIENT ONLY ;;;;;;
+	
+	; This section provides the general configuration of the headless service
+	[Settings]
+	; Log level: Dump, Trace, Debug, Info, Warn, Error, Fatal
+	LogLevel = Info
+	; RunScriptTimeout = 10000
+	
+	[Credentials]
+	; Uncomment and fill the following according to your configuration
+	; ControllerUrl = appgate://controller.com
+	; Username = user
+	; Password = pass
+	; Path to an executable that can be ran by the headless service that will return the password
+	; PasswordScriptPath = /usr/local/sbin/appgate_credentials
+	; AuthenticationCertificatePath = /var/lib/appgate/client.p12
+	; AuthenticationCertificatePassword = pass
+|3,0,5,1,17,0,1630501064,";;;;;; HEADLESS CLIENT ONLY ;;;;;;","","; This section provides the general configuration of the headless service","[Settings]","; Log level: Dump, Trace, Debug, Info, Warn, Error, Fatal","LogLevel = Info","; RunScriptTimeout = 10000","","[Credentials]","; Uncomment and fill the following according to your configuration","; ControllerUrl = appgate://controller.com","; Username = user","; Password = pass",>95
+|<"; Path to an executable that can be ran by the headless service that will return the password","; PasswordScriptPath = /usr/local/sbin/appgate_credentials","; AuthenticationCertificatePath = /var/lib/appgate/client.p12","; AuthenticationCertificatePassword = pass"
+"6	LINE	0
+	        systemcheck('nmcli c modify %s ipv6.dns-search "%s"' % (tundev, search))
+|3,0,6,1,1,0,1630500878,"        systemcheck('nmcli c modify %s ipv6.dns-search \"%s\"' % (tundev, search))"
+"7	LINE	0
+	        systemcheck('nmcli c modify %s ipv6.dns "%s"' % (tundev, ' '.join(serversv6)))
+|3,0,7,1,1,0,1630500877,"        systemcheck('nmcli c modify %s ipv6.dns \"%s\"' % (tundev, ' '.join(serversv6)))"
+"8	LINE	0
+	    if len(serversv6) > 0:
+|3,0,8,1,1,0,1630500877,"    if len(serversv6) > 0:"
+"9	LINE	0
+	        systemcheck('nmcli c modify %s ipv4.dns-search "%s"' % (tundev, search))
+|3,0,9,1,1,0,1630500877,"        systemcheck('nmcli c modify %s ipv4.dns-search \"%s\"' % (tundev, search))"
+""-	CHAR	0
+	#
+|3,1,36,0,1,0,1635345161,"#"
+
+# File mark:
+'0  4  0  /etc/hosts
+|4,48,4,0,1635367160,"/etc/hosts"
+'1  4  0  /etc/hosts
+|4,49,4,0,1635025868,"/etc/hosts"
+'2  4  0  /etc/hosts
+|4,50,4,0,1634141008,"/etc/hosts"
+'3  4  0  /etc/hosts
+|4,51,4,0,1634141008,"/etc/hosts"
+'4  1  0  /etc/shadow
+|4,52,1,0,1634112153,"/etc/shadow"
+'5  4  0  /etc/hosts
+|4,53,4,0,1633867412,"/etc/hosts"
+'6  4  0  /etc/hosts
+|4,54,4,0,1633867412,"/etc/hosts"
+'7  4  0  /etc/hosts
+|4,55,4,0,1633867412,"/etc/hosts"
+'8  4  0  /etc/hosts
+|4,56,4,0,1633867412,"/etc/hosts"
+'9  1  0  /etc/shadow
+|4,57,1,0,1633867208,"/etc/shadow"
+
+# Jumplist (dai più recenti):
+-'  4  0  /etc/hosts
+|4,39,4,0,1635367160,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1635345159,"/etc/hosts"
+-'  4  0  /etc/hosts
+|4,39,4,0,1635025868,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1635021241,"/etc/hosts"
+-'  4  0  /etc/hosts
+|4,39,4,0,1634141008,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1634112154,"/etc/hosts"
+-'  1  0  /etc/shadow
+|4,39,1,0,1634112153,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1634112153,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1634112153,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1634112153,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1634112153,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1634112153,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1634112153,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1634112153,"/etc/shadow"
+-'  4  0  /etc/hosts
+|4,39,4,0,1633867412,"/etc/hosts"
+-'  4  0  /etc/hosts
+|4,39,4,0,1633867412,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1633867212,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1633867212,"/etc/hosts"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1633867208,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  1  0  /etc/shadow
+|4,39,1,0,1632331057,"/etc/shadow"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+-'  33  0  /etc/passwd
+|4,39,33,0,1632331045,"/etc/passwd"
+
+# Storia delle marcature all'interno dei file (dalle più recenti alle meno recenti):
+
+> /etc/hosts
+	*	1635345162	0
+	"	4	0
+	^	4	1
+	.	4	0
+	+	31	7
+	+	31	14
+	+	31	15
+	+	31	0
+	+	31	23
+	+	31	0
+	+	31	7
+	+	31	0
+	+	31	17
+	+	31	0
+	+	4	0
+	+	4	23
+	+	4	0
+	+	3	0
+	+	4	0
+	+	3	0
+	+	32	0
+	+	25	0
+	+	4	0
+	+	25	0
+	+	4	0
+	+	25	0
+	+	25	41
+	+	25	0
+	+	24	0
+	+	4	0
+	+	25	0
+	+	4	0
+	+	10	23
+	+	9	12
+	+	21	0
+	+	11	25
+	+	10	0
+	+	11	0
+	+	10	0
+	+	11	0
+	+	20	216
+	+	4	0
+	+	12	0
+	+	13	10
+	+	40	21
+	+	41	0
+	+	33	0
+	+	38	41
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	41	57
+	+	42	0
+	+	43	59
+	+	43	0
+	+	44	10
+	+	45	38
+	+	16	45
+	+	15	32
+	+	16	0
+	+	4	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	15	0
+	+	4	0
+
+> /etc/shadow
+	*	1634112151	0
+	"	1	0
+	.	34	0
+	+	34	0
+
+> /etc/passwd
+	*	1632331041	0
+	"	33	0
+	.	34	0
+	+	34	0
+
+> /etc/group
+	*	1632331021	0
+	"	67	0
+	.	68	0
+	+	15	23
+	+	22	21
+	+	23	19
+	+	33	21
+	+	35	23
+	+	46	23
+	+	49	26
+	+	57	20
+	+	47	22
+	+	55	20
+	+	52	18
+	+	51	17
+	+	15	17
+	+	22	20
+	+	24	18
+	+	33	20
+	+	35	22
+	+	66	15
+	+	67	17
+	+	15	29
+	+	22	32
+	+	33	32
+	+	35	34
+	+	46	29
+	+	65	29
+	+	68	42
+	+	15	18
+	+	22	21
+	+	33	21
+	+	35	23
+	+	46	18
+	+	65	18
+	+	68	0
+
+> /home/salvolavoro/projects/client/src/empower/linux_extras/linuxinstalldist.sh
+	*	1631511331	0
+	"	85	0
+
+> /etc/resolv.conf
+	*	1631009616	0
+	"	3	25
+	^	3	26
+	.	3	25
+	+	1	18
+	+	1	17
+	+	3	25
+
+> /etc/subgid
+	*	1630564188	0
+	"	3	15
+	^	3	16
+	.	3	15
+	+	1	9
+	+	3	15
+
+> /etc/subuid
+	*	1630564168	0
+	"	3	15
+	^	3	16
+	.	3	15
+	+	1	8
+	+	3	15
+
+> /etc/docker/daemon.json
+	*	1630564059	0
+	"	2	29
+	^	2	30
+	.	2	29
+	+	6	1
+	+	2	29
+
+> /usr/local/sbin/set_dns
+	*	1630502191	0
+	"	2	32
+	^	2	33
+	.	2	33
+	+	1	9
+	+	3	29
+	+	2	33
+
+> /lib/systemd/system/appgate-resolver.service
+	*	1630501462	0
+	"	12	249
+	^	12	250
+	.	12	249
+	+	13	44
+	+	12	150
+	+	12	189
+	+	12	219
+	+	12	249
+
+> /etc/appgate.conf
+	*	1630501085	0
+	"	6	35
+	^	6	36
+	.	6	0
+	+	7	0
+	+	6	0
+
+> /opt/appgate/linux/set_dns
+	*	1630500878	0
+	"	120	4
+	.	120	0
+	+	469	2
+	+	470	0
+	+	36	0
+	+	120	0
+
+> /opt/appgate/linux/nm.py
+	*	1630500554	0
+	"	31	40
+	^	31	41
+	.	31	40
+	+	31	29
+	+	31	40
+
+> /home/salvolavoro/password
+	*	1630487707	0
+	"	32	404
+	^	32	405
+	.	32	404
+	+	32	404
+
+> /etc/localslackirc.d/tf2
+	*	1626365178	0
+	"	25	35
+	^	25	36
+	.	26	0
+	+	1	18
+	+	1	12
+	+	1	0
+	+	1	25
+	+	1	0
+	+	1	9
+	+	26	0
+
+> /etc/localslackirc.d/lavoro
+	*	1626365152	0
+	"	28	99
+	^	28	100
+	.	29	0
+	+	1	8
+	+	1	0
+	+	1	293
+	+	1	7
+	+	1	113
+	+	1	114
+	+	1	13
+	+	1	6
+	+	1	47
+	+	1	0
+	+	1	295
+	+	1	0
+	+	1	111
+	+	1	0
+	+	1	7
+	+	1	198
+	+	1	0
+	+	1	197
+	+	1	111
+	+	1	12
+	+	1	0
+	+	1	90
+	+	1	107
+	+	1	0
+	+	1	117
+	+	1	189
+	+	1	0
+	+	1	112
+	+	29	0
+
+> /etc/siddio/setprofile.conf
+	*	1613907220	0
+	"	1	0
+	.	1	0
+	+	1	9
+	+	2	4
+	+	1	0
+	+	2	0
+	+	1	0
+
+> /etc/siddio/profiles.conf
+	*	1613906888	0
+	"	63	0
+	.	64	0
+	+	1	5
+	+	64	30
+	+	53	0
+	+	57	0
+	+	61	0
+	+	64	0
+
+> /home/salvo/bin/init_trackpoint
+	*	1601581168	0
+	"	20	0
+	^	24	31
+	.	20	0
+	+	21	61
+	+	22	66
+	+	24	30
+	+	20	0
+
+> /etc/sudoers.tmp
+	*	1601581148	0
+	"	29	0
+	^	32	22
+	.	29	0
+	+	25	0
+	+	27	44
+	+	23	35
+	+	32	21
+	+	29	0
+
+> /usr/local/sbin/trackpoint.tmp
+	*	1601581116	0
+	"	1	0
+
+> /usr/local/sbin/trackpoint
+	*	1601581087	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	3	67
+	+	2	0
+	+	3	0
+
+> /etc/apt/sources.list
+	*	1600441871	0
+	"	11	0
+	^	20	58
+	.	20	58
+	+	5	39
+	+	6	43
+	+	10	0
+	+	8	48
+	+	9	52
+	+	1	43
+	+	3	47
+	+	5	0
+	+	6	0
+	+	8	0
+	+	9	0
+	+	5	0
+	+	6	0
+	+	1	16
+	+	3	20
+	+	5	16
+	+	6	20
+	+	1	16
+	+	3	20
+	+	5	16
+	+	6	20
+	+	1	16
+	+	3	20
+	+	5	16
+	+	6	20
+	+	1	16
+	+	3	20
+	+	5	16
+	+	6	20
+	+	10	0
+	+	10	59
+	+	10	0
+	+	7	0
+	+	8	0
+	+	2	0
+	+	1	43
+	+	3	0
+	+	5	0
+	+	6	0
+	+	2	0
+	+	1	0
+	+	5	0
+	+	6	0
+	+	1	0
+	+	5	0
+	+	6	0
+	+	1	0
+	+	5	0
+	+	1	0
+	+	5	0
+	+	1	0
+	+	6	0
+	+	5	0
+	+	6	0
+	+	1	0
+	+	5	0
+	+	6	0
+	+	8	0
+	+	5	0
+	+	6	1
+	+	1	0
+	+	8	0
+	+	9	0
+	+	1	0
+	+	5	0
+	+	6	0
+	+	8	0
+	+	9	0
+	+	4	6
+	+	1	0
+	+	12	0
+	+	14	0
+	+	1	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	6	0
+	+	7	0
+	+	10	0
+	+	11	0
+	+	14	43
+	+	15	48
+	+	16	40
+	+	17	49
+	+	16	44
+	+	19	0
+	+	18	0
+	+	19	48
+	+	20	58
+
+> /etc/default/grub
+	*	1599658370	0
+	"	11	0
+	^	11	1
+	.	11	0
+	+	9	28
+	+	10	46
+	+	24	0
+	+	36	0
+	+	35	27
+	+	24	1
+	+	35	0
+	+	36	1
+	+	10	47
+	+	12	0
+	+	10	85
+	+	12	119
+	+	10	117
+	+	12	0
+	+	11	0
+	+	10	0
+	+	11	48
+	+	10	0
+	+	11	0
+	+	10	0
+	+	11	0
+	+	10	0
+	+	11	0
+
+> /etc/docker/key.json
+	*	1599547198	0
+	"	1	0
+
+> /home/salvo/dev/relational/debian/control
+	*	1598257858	0
+	"	14	0
+
+> /home/salvo/dev/relational/debian/rules
+	*	1598257834	0
+	"	1	0
+
+> /etc/default/grub.d/init-select.cfg
+	*	1598086483	0
+	"	1	0
+
+> /tmp/ubu/etc/apt/sources.list
+	*	1597215206	0
+	"	49	0
+	.	49	0
+	+	4	0
+	+	9	0
+	+	15	0
+	+	17	0
+	+	25	0
+	+	27	0
+	+	35	0
+	+	45	0
+	+	47	0
+	+	49	0
+
+> /etc/sddm.conf
+	*	1591357537	0
+	"	8	18
+	^	8	19
+	.	8	18
+	+	7	16
+	+	8	18
+
+> ~/ipv6disable
+	*	1589619641	0
+	"	2	45
+	^	2	46
+	.	2	45
+	+	1	42
+	+	2	45
+
+> /lib/systemd/system/localslackirc@.service
+	*	1586588037	0
+	"	42	0
+	.	42	0
+	+	35	20
+	+	36	19
+	+	42	22
+	+	41	0
+	+	42	0
+	+	41	0
+	+	42	0
+
+> /usr/share/localslackirc/irc.py
+	*	1586586373	0
+	"	698	0
+	^	698	0
+	.	697	16
+	+	1	30
+	+	1	28
+	+	1	0
+	+	1	22
+	+	697	16
+
+> /usr/bin/localslackirc
+	*	1586554834	0
+	"	691	0
+	^	691	0
+	.	690	16
+	+	1	19
+	+	1	22
+	+	690	16
+
+> /usr/share/doc/libclang1-8/changelog.Debian.gz
+	*	1585354858	0
+	"	1	0
+	.	2915	0
+	+	2915	0
+
+> /etc/fuse.conf
+	*	1584234752	0
+	"	10	0
+	.	10	0
+	+	10	0
+
+> /etc/ssh/sshd_config
+	*	1583790436	0
+	"	1	0
+
+> /etc/localslackirc.d/example
+	*	1582980946	0
+	"	40	0
+
+> ../share/localslackirc/irc.py
+	*	1582937554	0
+	"	1	0
+
+> /usr/share/doc/telegram-desktop/changelog.gz
+	*	1582273199	0
+	"	1	0
+	.	2322	0
+	+	2322	0
+
+> /etc/ssl/openssl.cnf
+	*	1581769411	0
+	"	361	20
+	^	362	33
+	.	362	32
+	+	362	32
+
+> /etc/apt/sources.list.d/devops.list
+	*	1579256459	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	40
+	+	1	55
+	+	2	0
+	+	1	0
+
+> /etc/firejail/appgate.profile
+	*	1572265239	0
+	"	1	0
+	^	37	1
+	.	39	0
+	+	37	91
+	+	37	0
+	+	41	0
+	+	39	0
+
+> /opt/appgate/service/appgateservice.bin
+	*	1569867559	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	3	16
+
+> /opt/appgate/resources/app/app/platform/linux/LinuxApp.js
+	*	1569845931	0
+	"	17	101
+	^	17	102
+	.	17	101
+	+	17	101
+
+> /opt/appgate/service/appgateservice
+	*	1569833553	0
+	"	3	0
+
+> /etc/firejail/sims3.profile
+	*	1567964948	0
+	"	17	0
+	^	17	1
+	.	16	0
+	+	16	0
+
+> /etc/firejail/wine.profile
+	*	1567939163	0
+	"	9	0
+	.	10	0
+	+	9	0
+	+	12	0
+	+	10	0
+
+> /lib/systemd/system/appgatedriver.service
+	*	1567939004	0
+	"	1	0
+	^	10	1
+	.	10	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	28	0
+	+	14	0
+	+	13	0
+	+	12	0
+	+	11	0
+	+	10	0
+
+> /lib/systemd/system/upower.service
+	*	1567705436	0
+	"	45	0
+	^	52	1
+	.	48	0
+	+	48	0
+
+> /usr/share/doc/mypy/changelog.Debian.gz
+	*	1567453919	0
+	"	1	0
+	.	302	0
+	+	302	0
+
+> /home/salvo/Xsession
+	*	1564640865	0
+	"	1	0
+
+> /etc/X11/Xsession
+	*	1563261232	0
+	"	62	0
+	^	62	1
+	.	62	0
+	+	61	0
+	+	62	0
+	+	61	0
+	+	62	0
+
+> /etc/host
+	*	1562941584	0
+	"	1	0
+
+> /usr/local/share/ca-certificates/sallop.crt
+	*	1557419091	0
+	"	36	24
+	^	36	25
+	.	36	24
+	+	36	24
+
+> /usr/share/doc/firefox/changelog.Debian.gz
+	*	1557039923	0
+	"	1	0
+	.	1	0
+	+	392	0
+	+	1	0
+
+> /etc/apt/sources.list.d/azure-cli.list
+	*	1556197883	0
+	"	1	71
+	^	1	72
+	.	1	71
+	+	1	71
+
+> /etc/systemd/system/localslackirc_rchat.service
+	*	1556004402	0
+	"	1	0
+	^	15	13
+	.	15	13
+	+	12	33
+	+	14	21
+	+	13	22
+	+	14	21
+	+	15	13
+
+> /home/salvo/pagare
+	*	1555309361	0
+	"	1	0
+	.	2	0
+	+	1	3
+	+	2	0
+
+> /etc/systemd/system/localslackirc_tf2.service
+	*	1555129148	0
+	"	14	20
+	^	14	21
+	.	14	20
+	+	12	33
+	+	14	20
+
+> ./systemd/system/localslackirc_rchat.service
+	*	1554831088	0
+	"	1	0
+
+> /etc/firejail/mpv.profile
+	*	1554397862	0
+	"	46	10
+	.	44	0
+	+	44	0
+
+> /etc/systemd/system/localslackirc_foss.service
+	*	1552820334	0
+	"	12	34
+	^	12	35
+	.	12	34
+	+	11	104
+	+	12	34
+
+> /etc/postfix/main.cf
+	*	1551525762	0
+	"	49	0
+	^	71	8
+	.	71	7
+	+	85	95
+	+	85	72
+	+	71	7
+
+> /srv/www/a.py
+	*	1550406019	0
+	"	2	23
+	^	2	24
+	.	2	23
+	+	2	17
+	+	3	10
+	+	2	23
+
+> /srv/www/a.php
+	*	1550405818	0
+	"	6	0
+	.	6	0
+	+	5	1
+	+	1	11
+	+	7	7
+	+	8	0
+	+	6	0
+
+> /etc/postfix/sasl_passwd
+	*	1549608457	0
+	"	1	65
+	^	1	66
+	.	1	65
+	+	1	65
+
+> /tmp/0/config.txt
+	*	1548800697	0
+	"	59	21
+	^	59	22
+	.	59	21
+	+	1	38
+	+	59	21
+
+> /etc/systemd/system/localslackirc.service
+	*	1548715947	0
+	"	2	0
+	^	17	81
+	.	17	124
+	+	16	78
+	+	20	29
+	+	8	20
+	+	16	144
+	+	5	33
+	+	17	0
+	+	16	67
+	+	17	0
+	+	16	59
+	+	17	0
+	+	16	0
+	+	17	124
+
+> /usr/share/localslackirc/slack.py
+	*	1548492884	0
+	"	159	0
+
+> /etc/cron.d/backup
+	*	1546873246	0
+	"	1	3
+	^	1	17
+	.	1	0
+	+	1	0
+
+> /etc/crontab
+	*	1546873061	0
+	"	1	0
+
+> /etc/cron.d/php
+	*	1546873053	0
+	"	1	0
+
+> /etc/xinetd.d/weborfsec
+	*	1545605915	0
+	"	8	85
+	^	8	86
+	.	8	85
+	+	1	12
+	+	9	9
+	+	8	33
+	+	5	10
+	+	8	85
+
+> /etc/xinetd.d/weborf
+	*	1545605826	0
+	"	8	20
+	^	8	21
+	.	8	21
+	+	7	32
+	+	8	21
+
+> /etc/xinetd.d/weborf.conf
+	*	1545605588	0
+	"	7	37
+	^	7	38
+	.	7	37
+	+	7	37
+
+> /etc/weborf.d/pino.conf
+	*	1545566569	0
+	"	39	33
+	^	39	34
+	.	39	33
+	+	35	7
+	+	38	26
+	+	39	0
+	+	38	0
+	+	39	33
+
+> /etc/lintianrc
+	*	1545552656	0
+	"	1	0
+	.	23	0
+	+	23	0
+	+	26	0
+	+	23	0
+
+> /etc/bash.bashrc
+	*	1545132392	0
+	"	15	4
+
+> /usr/share/weborf/weborf_launcher
+	*	1545087098	0
+	"	124	14
+	^	124	15
+	.	124	14
+	+	2	6
+	+	1	10
+	+	124	14
+
+> /etc/systemd/system/weborf@.service
+	*	1545087022	0
+	"	21	26
+	^	21	27
+	.	21	26
+	+	1	27
+	+	1	8
+	+	1	11
+	+	1	29
+	+	1	0
+	+	1	21
+	+	1	22
+	+	1	13
+	+	1	11
+	+	1	0
+	+	1	9
+	+	21	26
+
+> /etc/init.d/weborf
+	*	1545072656	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	1	11
+	+	216	3
+	+	19	6
+	+	2	6
+
+> /lib/systemd/system/postfix.service
+	*	1543054886	0
+	"	1	0
+
+> /etc/xdg/autostart/krunner.desktop
+	*	1541144733	0
+	"	1	0
+	^	26	15
+	.	26	14
+	+	2	0
+	+	5	0
+	+	2	26
+	+	26	14
+
+> /etc/miredo/miredo.conf
+	*	1540144138	0
+	"	1	0
+
+> /etc/miredo.conf
+	*	1540143299	0
+	"	1	0
+
+> /usr/lib/python3/dist-packages/typedload/exceptions.py
+	*	1539414305	0
+	"	112	16
+	.	111	0
+	+	114	0
+	+	110	110
+	+	110	15
+	+	111	0
+
+> /tmp/changelog.Debian.gz
+	*	1538807289	0
+	"	1	0
+
+> /usr/share/doc/cowsay-off/changelog.Debian.gz
+	*	1538692890	0
+	"	1	0
+	.	283	0
+	+	283	0
+
+> /usr/share/doc/chromium/changelog.Debian.gz
+	*	1536352912	0
+	"	1	0
+	.	4865	0
+	+	4859	0
+	+	4865	0
+
+> /home/salvo/scaricare.txt
+	*	1533421651	0
+	"	1	0
+	.	7	0
+	+	7	0
+
+> /etc/firejail/ktorrent.profile
+	*	1532457084	0
+	"	1	0
+	^	64	32
+	.	64	31
+	+	27	26
+	+	28	26
+	+	29	26
+	+	30	31
+	+	31	34
+	+	30	0
+	+	2	0
+	+	52	0
+	+	64	31
+
+> /etc/firejail/chromium.profile
+	*	1532423054	0
+	"	37	0
+	^	37	1
+	.	37	0
+	+	8	16
+	+	50	31
+	+	21	0
+	+	30	0
+	+	22	0
+	+	31	0
+	+	23	0
+	+	45	0
+	+	37	0
+
+> /usr/share/applications/org.kde.marble.desktop
+	*	1531084505	0
+	"	10	0
+	.	10	0
+	+	5	5
+	+	7	0
+	+	6	0
+	+	7	0
+	+	9	0
+	+	8	0
+	+	9	0
+	+	10	0
+
+> /usr/share/doc/libgif7/changelog.Debian.gz
+	*	1528239058	0
+	"	1	0
+	.	363	0
+	+	363	0
+
+> /etc/firejail/firejail.users
+	*	1526508314	0
+	"	1	0
+	^	1	0
+
+> /usr/lib/python3/dist-packages/dput/uploaders/http.py
+	*	1525726326	0
+	"	30	20
+	^	30	21
+	.	30	20
+	+	30	20
+
+> /home/salvo/.bashrc
+	*	1525718215	0
+	"	139	73
+	^	139	74
+	.	139	74
+	+	139	74
+
+> ~/dcut
+	*	1525594720	0
+	"	1	0
