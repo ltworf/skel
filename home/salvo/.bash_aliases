@@ -7,7 +7,7 @@ alias l='ls -CF'
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
 
-alias dch='NAME="Salvo '\''LtWorf'\'' Tomaselli" EMAIL=tiposchi@tiscali.it dch'
+alias dch='NAME="Salvo '\''LtWorf'\'' Tomaselli" EMAIL=ltworf@debian.org dch'
 alias pastebinit='pastebinit -a LtWorf'
 
 alias lintian='lintian --pedantic -E --color auto -i -I'
